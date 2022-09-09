@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\CarApp.exe
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\CarApp.deps.json
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\CarApp.runtimeconfig.json
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\CarApp.dll
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\ref\CarApp.dll
+C:\Users\Costi\source\repos\CarApp\CarApp\bin\Debug\net6.0\CarApp.pdb
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.dll
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\ref\CarApp.dll
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.pdb
+C:\Users\Costi\source\repos\CarApp\CarApp\obj\Debug\net6.0\CarApp.genruntimeconfig.cache
